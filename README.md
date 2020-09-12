@@ -6,6 +6,7 @@
 	🚧  BeTheHero 1.0 :memo: Concluído 🚀 🚧
 </h4>
 
+<br>
 
 ## 💻 Sobre o projeto
 
@@ -20,18 +21,18 @@ Projeto desenvolvido durante a **11º Semana Omnistack** oferecida pela [Rockets
 
 ## ⚙️ Funcionalidades
 
-- [ ] As ONG interessadas podem se cadastrar na plataforma web enviando:
+- [x] As ONG interessadas podem se cadastrar na plataforma web enviando:
   - [x] Contato da ONG
   - [x] Nome da ONG
   - [x] Local
   - [x] Descrição
 
-- [ ] As ONG também podem cadastrar seus serviços enviando:
+- [x] As ONG também podem cadastrar seus serviços enviando:
   - [x] Nome do Caso
   - [x] Valor
   - [x] Contato
   
-- [ ] Os usuários interessados podem:
+- [x] Os usuários interessados podem:
   - [x] Encontrar os serviços.
   - [x] Fazer doação atráves dos contatos de Email ou WhatsApp
 
@@ -82,7 +83,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 
-<br>>
+<br>
 
 
 #### 🎲 Rodando o Backend (servidor)
@@ -107,6 +108,8 @@ $ yarn start
 # O servidor inciará na porta:3333 - acesse http://localhost:3333 
 
 ```
+
+<br>
 
 #### 🧭 Rodando a aplicação web (Frontend)
 
