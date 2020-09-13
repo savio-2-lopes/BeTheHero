@@ -26,11 +26,15 @@ Projeto desenvolvido durante a **11º Semana Omnistack** oferecida pela [Rockets
   - [x] Nome da ONG
   - [x] Local
   - [x] Descrição
+  
+  <br>
 
 - [x] As ONG também podem cadastrar seus serviços enviando:
   - [x] Nome do Caso
   - [x] Valor
   - [x] Contato
+  
+  <br>
   
 - [x] Os usuários interessados podem:
   - [x] Encontrar os serviços.
