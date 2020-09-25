@@ -10,7 +10,6 @@
 
 ## 💻 Sobre o projeto
 
-
 🚀   **BeTheHero** - é uma forma de conectar pessoas que desejam fazer contribuições monetárias a ONG's. 
 
 Projeto desenvolvido durante a **11º Semana Omnistack** oferecida pela [Rocketseat](https://rocketseat.com.br).
