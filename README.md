@@ -15,9 +15,7 @@
 
 Projeto desenvolvido durante a **11º Semana Omnistack** oferecida pela [Rocketseat](https://rocketseat.com.br).
 
-
 <br>
-
 
 ## ⚙️ Funcionalidades
 
