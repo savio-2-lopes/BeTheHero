@@ -8,6 +8,19 @@
 
 <br>
 
+## Índice
+
+- [Sobre](#sobre-o-projeto)
+- [Funcionalidades](#funcionalidades)
+- [Layout](#layout)
+- [Como Executar](#executar)
+- [Tecnologias utilizadas](#tecnologias)
+- [Autor](#autor)
+
+<br>
+
+<a id="sobre-o-projeto"></a>
+
 ## 💻 Sobre o projeto
 
 🚀   **BeTheHero** - é uma forma de conectar pessoas que desejam fazer contribuições monetárias a ONG's. 
@@ -15,6 +28,8 @@
 Projeto desenvolvido durante a **11º Semana Omnistack** oferecida pela [Rocketseat](https://rocketseat.com.br).
 
 <br>
+
+<a id="funcionalidades"></a>
 
 ## ⚙️ Funcionalidades
 
@@ -37,8 +52,9 @@ Projeto desenvolvido durante a **11º Semana Omnistack** oferecida pela [Rockets
   - [x] Encontrar os serviços.
   - [x] Fazer doação atráves dos contatos de Email ou WhatsApp
 
-
 <br>
+
+<a id="layout"></a>
 
 ## 🎨 Layout
 
@@ -64,6 +80,7 @@ Projeto desenvolvido durante a **11º Semana Omnistack** oferecida pela [Rockets
 
 <br>
 
+<a id="executar"></a>
 
 ## 🚀 Como executar o projeto
 
@@ -137,6 +154,7 @@ $ yarn start
 
 <br>
 
+<a id="tecnologias"></a>
 
 ## 🛠 Tecnologias
 
@@ -148,6 +166,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Expo](https://expo.io/)
 
 <br>
+
+<a id="autor"></a>
 
 ## 🦸 Autor
 
