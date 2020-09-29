@@ -8,7 +8,7 @@
 
 <br>
 
-## Índice
+## :memo: Índice
 
 - [Sobre](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
