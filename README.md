@@ -181,6 +181,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <br>
 
+<a id="licenca"></a>
+
+# :memo: Licença
+
+Este projeto está sob a licença do MIT. Veja a [página de licença] (https://opensource.org/licenses/MIT) para mais detalhes.
+
+<br>
+
 <a id="autor"></a>
 
 ## 🦸 Autor
