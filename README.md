@@ -1,27 +1,41 @@
-<h1 align="center">
-    <img alt="Bethehero" src="./assets/logo@3x.png" width="200px" />
-</h1>
+<h3 align="center">
+    <img alt="Bethehero" src="./assets/logo@3x.png" width="250px" />
+</h3>
 
-<h4 align="center"> 
-	🚧  BeTheHero 1.0 :memo: Concluído 🚀 🚧
-</h4>
+<p align="center"> 🚀 <strong>BeTheHero - 11º Semana Omnistack</strong> 🚧
+ </p>
 
 <br>
 
-## :memo: Índice
+<p align="center">
+   <img src="https://img.shields.io/badge/version-0.0.1-yellow.svg" />
+  
+  <a href="https://github.com/savio-2-lopes">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
+  </a>
+ 
+ <a href="https://github.com/savio-2-lopes">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" target="_blank" />
+  </a>
+</p>
+
+<br>
+
+# :pushpin: Índice
 
 - [Sobre](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
 - [Layout](#layout)
 - [Como Executar](#executar)
-- [Tecnologias utilizadas](#tecnologias)
+- [Tecnologias](#tecnologias)
+- [Licença](#licenca)
 - [Autor](#autor)
 
 <br>
 
 <a id="sobre-o-projeto"></a>
 
-## 💻 Sobre o projeto
+# 💻 Sobre o projeto
 
 🚀   **BeTheHero** - é uma forma de conectar pessoas que desejam fazer contribuições monetárias a ONG's. 
 
@@ -31,7 +45,7 @@ Projeto desenvolvido durante a **11º Semana Omnistack** oferecida pela [Rockets
 
 <a id="funcionalidades"></a>
 
-## ⚙️ Funcionalidades
+# ⚙️ Funcionalidades
 
 - [x] As ONG interessadas podem se cadastrar na plataforma web enviando:
   - [x] Contato da ONG
@@ -56,7 +70,7 @@ Projeto desenvolvido durante a **11º Semana Omnistack** oferecida pela [Rockets
 
 <a id="layout"></a>
 
-## 🎨 Layout
+# 🎨 Layout
 
 ### Web
 
@@ -66,9 +80,7 @@ Projeto desenvolvido durante a **11º Semana Omnistack** oferecida pela [Rockets
   <img alt="BeTheHero" title="#BeTheHero" src="./assets/3.png" width="300px">
 </p>
 
-
 <br>
-
 
 ### Mobile
 
@@ -77,19 +89,18 @@ Projeto desenvolvido durante a **11º Semana Omnistack** oferecida pela [Rockets
   <img alt="BeTheHero" title="#BeTheHero" src="./assets/02.jpeg" width="200px">
 </p>
 
-
 <br>
 
 <a id="executar"></a>
 
-## 🚀 Como executar o projeto
+# 🚀 Como executar o projeto
 
 Este projeto é divido em três partes:
 1. Backend 
 2. Frontend 
 3. Mobile 
 
-💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
+💡 Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
 
 <br>
 
@@ -118,7 +129,10 @@ $ cd Be-The-Hero
 $ cd backend
 
 # Instale as dependências
-$ yarn add
+$ npm install
+
+# Crie as tabelas do banco de dados
+$ yarn typeorm:migration run
 
 # Execute a aplicação em modo de desenvolvimento
 $ yarn start
@@ -143,7 +157,7 @@ $ cd Be-The-Hero
 $ cd frontend
 
 # Instale as dependências
-$ yarn add
+$ npm install
 
 # Execute a aplicação em modo de desenvolvimento
 $ yarn start
@@ -156,7 +170,7 @@ $ yarn start
 
 <a id="tecnologias"></a>
 
-## 🛠 Tecnologias
+# 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -170,11 +184,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a id="autor"></a>
 
 ## 🦸 Autor
-
-<a href="https://github.com/savio-2-lopes">
- <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/60948849?s=460&u=689ef123d3278304945aca213bed7413645ea4a7&v=4" width="100px;" alt=""/>
- <br>
- 
  
 [![Linkedin Badge](https://img.shields.io/badge/savio-lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/savio-lopes/)](https://www.linkedin.com/in/savio-lopes/) 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/savio-2-lopes)](https://github.com/savio-2-lopes)
