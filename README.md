@@ -21,7 +21,7 @@
 
 <br>
 
-# :pushpin: Índice
+## :pushpin: Índice
 
 
 - [Sobre](#sobre-o-projeto)
@@ -37,7 +37,7 @@
 
 <a id="sobre-o-projeto"></a>
 
-# 💻 Sobre o projeto
+## 💻 Sobre o projeto
 
 🚀   **BeTheHero** - é uma forma de conectar pessoas que desejam fazer contribuições monetárias a ONG's. 
 
@@ -47,7 +47,7 @@ Projeto desenvolvido durante a **11º Semana Omnistack** oferecida pela [Rockets
 
 <a id="funcionalidades"></a>
 
-# ⚙️ Funcionalidades
+## ⚙️ Funcionalidades
 
 - [x] As ONG interessadas podem se cadastrar na plataforma web enviando:
   - [x] Contato da ONG
@@ -72,14 +72,14 @@ Projeto desenvolvido durante a **11º Semana Omnistack** oferecida pela [Rockets
 
 <a id="layout"></a>
 
-# 🎨 Layout
+## 🎨 Layout
 
 ### Web
 
 <p align="center">
-  <img alt="BeTheHero" title="#BeTheHero" src="./assets/1.png" width="300px">
-  <img alt="BeTheHero" title="#BeTheHero" src="./assets/2.png" width="300px">
-  <img alt="BeTheHero" title="#BeTheHero" src="./assets/3.png" width="300px">
+  <img alt="BeTheHero" title="#BeTheHero" src="./assets/1.png" width="400px">
+  <img alt="BeTheHero" title="#BeTheHero" src="./assets/2.png" width="400px">
+  <img alt="BeTheHero" title="#BeTheHero" src="./assets/3.png" width="400px">
 </p>
 
 <br>
@@ -87,15 +87,15 @@ Projeto desenvolvido durante a **11º Semana Omnistack** oferecida pela [Rockets
 ### Mobile
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="BeTheHero" title="#BeTheHero" src="./assets/01.jpeg" width="200px">
-  <img alt="BeTheHero" title="#BeTheHero" src="./assets/02.jpeg" width="200px">
+  <img alt="BeTheHero" title="#BeTheHero" src="./assets/01.jpeg" width="300px">
+  <img alt="BeTheHero" title="#BeTheHero" src="./assets/02.jpeg" width="300px">
 </p>
 
 <br>
 
 <a id="executar"></a>
 
-# 🚀 Como executar o projeto
+## 🚀 Como executar o projeto
 
 Este projeto é divido em três partes:
 1. Backend 
@@ -106,16 +106,13 @@ Este projeto é divido em três partes:
 
 <br>
 
-
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e o gerenciador de pacotes [Yarn](https://yarnpkg.com).
 Além disto é bom ter um editor para trabalhar como [VSCode](https://code.visualstudio.com/)
 
-
 <br>
-
 
 #### 🎲 Rodando o Backend (servidor)
 
@@ -172,7 +169,7 @@ $ yarn start
 
 <a id="tecnologias"></a>
 
-# 🛠 Tecnologias
+## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -185,7 +182,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <a id="licenca"></a>
 
-# :memo: Licença
+## :memo: Licença
 
 Este projeto está sob a licença do MIT. Veja a [página de licença](https://opensource.org/licenses/MIT) para mais detalhes.
 
@@ -200,6 +197,4 @@ Este projeto está sob a licença do MIT. Veja a [página de licença](https://o
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=12996798894&text=Hello!)](https://api.whatsapp.com/send?phone=12996798894&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:savioaugulopes@gmail.com)](mailto:savioaugulopes@gmail.com)
 
-
 Feito com ❤️ por Savio Lopes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/savio-lopes/)
-
